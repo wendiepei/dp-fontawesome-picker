@@ -2,7 +2,7 @@
 ## 说明
 这是一款基于VUE2+FontAwesome V6免费版的小插件
 
-本人自己使用，现在开放给大家免费使用，有兴趣可以试试（别忘了点个start）
+本人自己使用，现在开放给大家免费使用，有兴趣可以试试（别忘了点个star⭐️）
 
 ## 效果
 ![image](https://github.com/user-attachments/assets/2dbff60d-1409-4bf7-94ed-f1f1b3e995d4)
