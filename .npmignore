@@ -1,0 +1,4 @@
+node_modules/
+dist/
+.idea/
+dp-fontawesome-picker.iml
