@@ -79,7 +79,7 @@ export default {
 <style>
 #iconPicker {
     position: relative;
-    max-width: 292px;
+    max-width: 300px;
     background: #ffffff;
     padding-top: 15px;
 }

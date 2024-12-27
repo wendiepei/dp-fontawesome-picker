@@ -1,6 +1,6 @@
 {
   "name": "dp-fontawesome-picker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/dp-fontawesome-picker.umd.js",
   "module": "dist/dp-fontawesome-picker.common.js",
   "scripts": {
