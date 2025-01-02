@@ -1,5 +1,5 @@
 # 一款基于 FontAwesome V6 免费版的图标选择器
-English(README.md) | 简体中文
+English[README.md](https://github.com/wendiepei/dp-fontawesome-picker/blob/master/README.md) | 简体中文
 
 ## 说明
 这是一款基于VUE2+FontAwesome V6免费版的小插件
